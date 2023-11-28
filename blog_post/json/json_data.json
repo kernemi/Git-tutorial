@@ -1,0 +1,12 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Sample Post",
+        "content": "This is a sample blog post.",
+        "author": "kernemi kidane",
+        "timestamp": "2023-11-27 12:00:00"
+      }
+    ]
+  }
+  
