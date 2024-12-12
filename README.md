@@ -1,2 +1,2 @@
-# Git-tutorial
-first day GDSC
+# Hello
+
